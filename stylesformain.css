@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(173, 216, 230);
+}
+
+
+
+.test{
+    width: 65%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+ul li{
+    text-align: center;
+    padding: 10px;
+    font-size: 50px;
+    list-style-type: none;
+}
