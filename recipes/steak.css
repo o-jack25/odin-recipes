@@ -1,0 +1,22 @@
+body{
+    background-color: lightgoldenrodyellow;
+    font-size: 26px;
+}
+
+figure{
+    text-align: center;
+}
+
+img{
+    border-radius: 10%;
+}
+
+h1{
+    text-align: center;
+}
+
+
+h2{
+    border-bottom: 2px solid black;
+    width: fit-content;
+}
