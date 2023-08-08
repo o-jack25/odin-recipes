@@ -1,21 +1,22 @@
 body{
-    background-color: rgb(173, 216, 230);
+    background-color: rgb(100, 103, 104);
 }
 
 
 
 .test{
-    width: 65%;
-    height: auto;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    width: 1000px;
+    margin: 0 auto;
+    padding: 10px 0px;
     
 }
 
 ul li{
-    text-align: center;
+    margin: 0 auto;
     padding: 10px;
     font-size: 50px;
     list-style-type: none;
+    border: 2px solid black;
+    text-align: center;
+    
 }
